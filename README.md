@@ -68,7 +68,7 @@ Only officers with guns → normal/
 🧪 How to Run
 1. Clone the repository
 
-git clone https://github.com/yourusername/threat-detection-system.git
+git clone https://github.com/SUMITpoddarrr/Army-and-Gun-detection.git
 cd threat-detection-system
 2. Install dependencies
 
