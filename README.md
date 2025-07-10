@@ -9,15 +9,7 @@ Class 0 → Army/Police (uniformed)
 
 Class 1 → Civilians (normal dress)
 
-#Folder Structure
-Threat-Detection-System/
-├── best_m_gun.pt                 # Gun detection YOLOv8 model
-├── /images                       # Input images
-├── /normal                      # Output folder for normal/safe cases
-├── /alert                       # Output folder for threat/alert cases
-├── main.py                      # Core script for detection
-├── requirements.txt             # Python dependencies
-└── README.md                    # Documentation
+
 
 #Models Used
 1. Gun Detection Model
@@ -65,7 +57,7 @@ Civilians with guns → alert/
 
 Only officers with guns → normal/
 
-🧪 How to Run
+# How to Run
 1. Clone the repository
 
 git clone https://github.com/SUMITpoddarrr/Army-and-Gun-detection.git
