@@ -1,0 +1,4 @@
+Python 3.8+
+OpenCV
+NumPy
+Ultralytics (YOLOv8)
