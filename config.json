@@ -1,0 +1,70 @@
+{
+    "State": {
+        "J & K": {
+            "ip_cameras": {
+                "cam1": {
+                    "ip": "103.118.25.85",
+                    "port": "8031",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "DkxP+zVC4yGFEyLYUCQ4NFrfNhSTRzmKedgKkv+/M07f3urF",
+                    "location": "road_1"
+                   
+                },
+                "cam2": {
+                    "ip": "103.118.25.85",
+                    "port": "8032",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "qZHGS48DjG/WWywhKAXNdmFCiHRF3DDeidV5ZnMZT9Go8eKw",
+                    "location": "road_2"
+                
+                    
+                },
+                "cam3": {
+                    "ip": "103.118.25.85",
+                    "port": "8033",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "qZHGS48DjG/WWywhKAXNdmFCiHRF3DDeidV5ZnMZT9Go8eKw",
+                    "location": "road_3"
+                   
+                    
+                },
+                "cam4": {
+                    "ip": "103.118.25.85",
+                    "port": "8035",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "qZHGS48DjG/WWywhKAXNdmFCiHRF3DDeidV5ZnMZT9Go8eKw",
+                    "location": "road_4"
+              
+                    
+                },
+                "cam5": {
+                    "ip": "103.118.25.85",
+                    "port": "8128",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "qZHGS48DjG/WWywhKAXNdmFCiHRF3DDeidV5ZnMZT9Go8eKw",
+                    "location": "road_5"
+                  
+                    
+                },
+                "cam6": {
+                    "ip": "103.118.25.85",
+                    "port": "8126",
+                    "status": "available",
+                    "username": "admin",
+                    "password": "qZHGS48DjG/WWywhKAXNdmFCiHRF3DDeidV5ZnMZT9Go8eKw",
+                    "location": "road_6"
+                 
+                    
+                }
+            }
+        }
+    }
+}
+
+
+
