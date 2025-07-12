@@ -10,7 +10,7 @@ with open('config.json', 'r') as f:
     config = json.load(f)
 
 # Extract cameras
-cameras = config['organizations']['']['ip_cameras']
+cameras = config['State']['J & K']['ip_cameras']
 
 # Output folders
 normal_folder = 'normal/'
